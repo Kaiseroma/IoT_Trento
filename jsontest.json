@@ -1,0 +1,47 @@
+{
+	"1":
+	{
+		"Name" : "Roman",
+		"acc_x" : 3.0,
+		"acc_y" : 2.0,
+		"acc_z" : 0.1,
+		"pos_x" : 7.0,
+		"pos_y" : 6.0
+	},
+	"2":
+	{
+		"Name" : "Matteo",
+		"acc_x" : 0.0,
+		"acc_y" : 4.0,
+		"acc_z" : 0.1,
+		"pos_x" : 2.0,
+		"pos_y" : 3.0
+	},
+	"3":
+	{
+		"Name" : "Luca",
+		"acc_x" : 7.0,
+		"acc_y" : 1.4,
+		"acc_z" : 0.1,
+		"pos_x" : 4.0,
+		"pos_y" : 3.0
+	},
+	"4":
+	{
+		"Name" : "Davide",
+		"acc_x" : 0.0,
+		"acc_y" : 0.0,
+		"acc_z" : 0.0,
+		"pos_x" : 3.0,
+		"pos_y" : 6.1
+	},
+	"5":
+	{
+		"Name" : "Daniele",
+		"acc_x" : 5.0,
+		"acc_y" : 4.4,
+		"acc_z" : 0.2,
+		"pos_x" : 1.0,
+		"pos_y" : 1.0
+	}
+}
